@@ -1,0 +1,11 @@
+[
+    {
+        "Name":"Handsome Luke",
+        "Profile_Picture":"./handsome_luke.jpg",
+        "Model":"Harley-Davidson T-1000",
+        "Host_id":1,
+        "Rating":3.5,
+        "Number_of_Trips":27,
+        "Description":"Really good for heists, and Ryan Gosling drove this very bike for a heist in 2014. This happened to a bank at the place beyond pines."
+    }
+]

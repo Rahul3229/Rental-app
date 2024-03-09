@@ -1,0 +1,15 @@
+.container1{
+    position: relative;
+    top:-100px;
+    height:350px;
+    width:1536px;
+    overflow: hidden;
+}
+
+.background
+{
+    position: relative;
+    top:-100px;
+    width:300vh;
+    opacity: 0.5;
+}

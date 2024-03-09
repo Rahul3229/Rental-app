@@ -1,0 +1,47 @@
+[
+{
+"id":1,    
+"src":"./bike1.jpg",
+"name":"Duke1",
+"description":"So, here we are!",
+"coordinatesX":40.130361521177015, 
+"coordinatesY":-83.13988617216593,
+"rating":1.5
+},
+{
+"id":2,    
+"src":"./bike2.jpg",
+"name":"Duke1",
+"description":"So, here we are!",
+"coordinatesX":40.124289240525464,
+"coordinatesY": -83.12930484812955, 
+"rating":4.0
+},
+{
+"id":3,    
+"src":"./bike3.jpg",
+"name":"Duke1",
+"description":"So, here we are!",
+"coordinatesX": 40.1029412157973, 
+"coordinatesY": -83.15785303857952, 
+"rating":4.5
+},
+{
+"id":4,    
+"src":"./bike4.jpg",
+"name":"Duke1",
+"description":"So, here we are!",
+"coordinatesX": 40.11694139061877, 
+"coordinatesY": -83.0930337855174,
+"rating":3.5
+},
+{
+"id":5,    
+"src":"./bike5.jpg",
+"name":"Duke1",
+"description":"So, here we are!",
+"coordinatesX": 40.12752034854802, 
+"coordinatesY": -83.13005244800945,
+"rating":2
+}
+]

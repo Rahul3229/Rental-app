@@ -1,0 +1,51 @@
+.contain1
+{
+position: relative;
+width:100%;
+top:100px;
+}
+
+.Nav12
+{
+    position: relative !important;
+    height:10px;
+    width:100px;
+    top:-120px;
+    left:-150px !important;
+}
+
+.Trips
+{
+position: relative;
+left:-540px;
+}
+.Model
+{
+    position: relative;
+    left:-415px;    
+}
+
+.Description
+{
+    position: relative;
+    left:-510px;  
+}
+.Description_Text
+{
+    position: relative;
+    top:-47px;
+    left:50px;
+}
+.Image_contain
+{
+    position:relative;
+    height:100px;
+    width:100px;
+    left:0px;
+    top:0px;
+}
+,image1
+{
+    position: relative;
+    object-fit: cover;
+}

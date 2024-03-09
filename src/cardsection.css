@@ -1,0 +1,6 @@
+.contain
+{
+    position: relative !important;
+    height:500px !important;
+    overflow: hidden important;
+}

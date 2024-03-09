@@ -1,0 +1,11 @@
+.contain{
+    position: relative;
+    width:400px;
+    height:550px;
+    
+    top:50px;
+    left:50px;
+    overflow: scroll;
+    overflow-x: hidden;
+    
+}

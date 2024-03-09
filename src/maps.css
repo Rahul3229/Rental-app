@@ -1,0 +1,13 @@
+
+.Mapping{
+    position:absolute;
+    height: 76vh;
+    width: 70vw;
+    left:455px;
+    top:140px;
+  }
+  
+  .map-container {
+    height: 100%;
+    width: 100%;
+  }
